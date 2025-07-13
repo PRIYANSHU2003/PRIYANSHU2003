@@ -17,7 +17,7 @@ Currently exploring GenAI frameworks like LangChain and Langfuse to solve real-w
 *Specialization in AI/ML and IoT*  
 GLA University, Mathura, India  
 📅 Aug 2023 – Aug 2027  
-🎓 GPA: 8.5/10  
+
 
 ---
 
@@ -79,8 +79,6 @@ Developed a FastAPI-based chatbot allowing only verified users to interact with 
 Machine Learning model to predict next-day weather using Random Forest.  
 📊 Tools: Pandas, Scikit-learn, Matplotlib
 
-### 🐯 **Tiger Leaping Over Rat – 2D Game**  
-Browser-based obstacle-jumping game built with HTML, CSS, and JavaScript.
 
 ---
 
