@@ -1,7 +1,7 @@
 # 👋 Priyanshu Nayak  
 📍 Region: India 🇮🇳  
 📧 Email: priyanshu.nayak.555@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/priyanshu--nayak) | [GitHub](https://github.com/PRIYANSHU2003)
+🔗 [LinkedIn](https://linkedin.com/in/priyanshu--nayak) | [GitHub](https://github.com/priyanshunayak05)
 
 ---
 
@@ -95,7 +95,7 @@ Machine Learning model to predict next-day weather using Random Forest.
 
 ## 📫 Let’s Connect  
 📧 Email: priyanshu.nayak.555@gmail.com  
-🔗 GitHub: [PRIYANSHU2003](https://github.com/PRIYANSHU2003)  
+🔗 GitHub: [Priyanshu Nayak](https://github.com/priyanshunayak05)  
 🔗 LinkedIn: [Priyanshu Nayak](https://linkedin.com/in/priyanshu--nayak)
 
 ---
